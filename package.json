@@ -1,0 +1,26 @@
+{
+  "name": "belajar-nodejs",
+  "version": "1.0.0",
+  "description": "belajar nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "NODE_ENV=development node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikirahman/belajar-nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Diki Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikirahman/belajar-nodejs/issues"
+  },
+  "homepage": "https://github.com/dikirahman/belajar-nodejs#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
